@@ -1,6 +1,6 @@
 ## Beinvenidos a Github Trujillo
 
-Project organization for software development, academic work, automation, AI systems, and knowledge management.
+A project organization for software development, academic work, automation, AI systems, and knowledge management.
 
 ## Categories
 
